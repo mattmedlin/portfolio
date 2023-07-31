@@ -5,7 +5,7 @@ function Introduction() {
   return (
     <div>
       <h1
-        className="text-[#DEB992] font-extralight text-8xl text-center pt-12 pb-2"
+        className="text-white font-extralight text-8xl text-center pt-12 pb-2"
         style={{ letterSpacing: "12px" }}
       >
         MATT MEDLIN
@@ -24,7 +24,7 @@ function Introduction() {
         ></Image>
       </div>
       <div className="w-full">
-        <p className="text-[#DEB992] w-1/3 mx-auto text-center pt-6 pb-2">
+        <p className="text-white w-1/3 mx-auto text-center pt-6 pb-2">
           Tech enthusiast, code crafter, gaming lover. Join me on a digital
           journey, exploring tech, gaming, and more. Let's unleash creativity
           and innovation together!
