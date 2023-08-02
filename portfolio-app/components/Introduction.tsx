@@ -24,7 +24,7 @@ function Introduction() {
         />
       </div>
       <div className="w-full text-white pt-6">
-        <p className="text-center text-opacity-80">
+        <p className="text-center text-opacity-80 sm:w-3/5 sm:mx-auto">
           Tech enthusiast, code crafter, gaming lover. Join me on a digital
           journey, exploring tech, gaming, and more. Let's unleash creativity
           and innovation together!
