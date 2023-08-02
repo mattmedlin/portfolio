@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
-    <div className="bg-[#051622]">
+    <div className="bg-[#051622] no-scrollbar">
       <Nav />
       <Introduction />
       <Projects />

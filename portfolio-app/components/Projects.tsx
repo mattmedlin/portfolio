@@ -11,7 +11,7 @@ function Projects() {
       <div className="w-1/4 border-b border-white border-opacity-70 mx-auto my-12"></div>
       <p className="text-center">A few highlights of my best work</p>
       <div>
-        <div className="w-full flex justify-center text-center gap-10 pt-20 pb-6">
+        <div className="w-full max-sm:flex-col flex justify-center text-center gap-10 pt-20 pb-6">
           <ProjectButton />
           <ProjectButton />
           <ProjectButton />

@@ -15,7 +15,7 @@ function About() {
         width={500}
         height={500}
       ></Image>
-      <div className="mx-auto w-1/3 pt-16">
+      <div className="mx-auto max-sm:w-10/12 w-1/3 pt-16">
         <h2 className="text-white text-opacity-80 text-left text-3xl">
           Hey there, I'm Matt.
         </h2>

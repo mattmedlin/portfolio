@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.no-scrollbar {
+  scrollbar-width: none; /* Remove scrollbar on Firefox */
+  -ms-overflow-style: none; /* Remove scrollbar on Internet Explorer and Edge */
+}
+
+/* For WebKit-based browsers like Chrome and Safari */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
